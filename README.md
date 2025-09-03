@@ -1,2 +1,3 @@
 # DSCI352
-Simon Hon's repo for DSCI352 course
+Student name: Simon Hong
+email: simonhon@usc.edu
